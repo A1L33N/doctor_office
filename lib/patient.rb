@@ -7,5 +7,5 @@ attr_reader :name, :id, :birthday
     @id = attributes.fetch(:id)
     @birthday = attributes.fetch(:birthday)
   end
-
+  
 end
